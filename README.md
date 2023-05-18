@@ -30,8 +30,7 @@ Follow the on-screen prompts to roll the dice.
 
 The program will display the dice face and the corresponding number for each roll.
 
-enter the number of time you want to roll a dice
-
+Welcome to the Dice Simulator!
 Press Enter to roll the dice (or type 'quit' to exit): 
 
 +-------+
@@ -39,6 +38,7 @@ Press Enter to roll the dice (or type 'quit' to exit):
 |   0   |
 |       |
 +-------+
+
 
 Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvements, please create a new issue or submit a pull request.
