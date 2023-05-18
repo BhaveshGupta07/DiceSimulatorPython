@@ -1,0 +1,11 @@
+Problem 
+1-we are developing the Dice simulator
+2-each time random number is generated
+3-iterate no of time we entered
+
+Algorithm
+
+1- developing random number
+2- checking that nuumber
+3- print that the number 
+4- loop over the 1-3 steps for n iterations
